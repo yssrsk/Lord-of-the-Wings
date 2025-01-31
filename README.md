@@ -1,2 +1,6 @@
 # Lord-of-the-Wings
-Lord of the Wings Project
+OOP Project
+
+Lord of the Wings Ordering System
+IDE: Visual Studio
+Language: Java
